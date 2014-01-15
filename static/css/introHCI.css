@@ -31,7 +31,7 @@ body {
 
 .jumbotron:after {
      content:"";
-     background: url("http://lorempixel.com/1140/283");
+     background: url("http://toptravellists.net/wp-content/uploads/2012/07/Mexico-Huatulco-Tangolunda-Sunset-Sea.jpg");
      opacity: 0.2;
      top: 0;
      left: 0;
@@ -42,7 +42,10 @@ body {
 }
 .project {
      margin-left: 20px;
-     background-color: #deebf7;
+     background-color: #E5D0F2;
      padding: 20px;
      width: 525px;
+}
+.interests {
+     margin-left: 20px;
 }
